@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivaprasad Aili
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning EXPRESS JS
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me aili.shivaprasad@gmail.com.
 
